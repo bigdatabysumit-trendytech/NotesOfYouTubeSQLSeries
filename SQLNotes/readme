@@ -1,4 +1,9 @@
 This is a readme file.
 
-Added a new feature called as Feature1
+Added a new feature called feature2
 
+<<<<<<< HEAD
+Sachin Yoganandham
+=======
+This will be used to clarify the process a bit
+>>>>>>> 2fbf123be474ff3b265afb8aeb384579e8f4dea5
